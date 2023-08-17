@@ -1,3 +1,9 @@
+# Info
+
+This repository represents a realization of the practical exercise of the following link [Beautiful Restaurant Template Free in Reactjs](https://therichpost.com/beautiful-restaurant-template-free-in-reactjs/) and looks like this:
+
+<img src="images/Resume.gif" alt="Logo" width="840" height="480">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
